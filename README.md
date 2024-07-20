@@ -18,11 +18,7 @@ This project explores various supervised machine learning models (Linear Regress
     ```sh
     cd machine-failure-prediction
     ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. Upload your kaggle.json file into the project directory (That you can get from your Kaggle account settings)
+3. Upload your kaggle.json file into the project directory (That you can get from your Kaggle account settings)
    
 ## Usage
 
@@ -34,7 +30,6 @@ This project explores various supervised machine learning models (Linear Regress
 
 ### File Descriptions
 - `FailurePrediction.ipynb`: The main Jupyter notebook containing the analysis and results.
-- `requirements.txt`: List of dependencies required to run the project.
 
 ## Dataset
 
